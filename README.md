@@ -50,10 +50,12 @@ pip install pynput
 ## Screenshots
 
 ### Running the Keylogger:  
-*Insert screenshot here*  
+*![image](https://github.com/user-attachments/assets/eed1c804-5d9a-408a-826e-b55379772b80)
+  
 
 ### Viewing the Log File:  
-*Insert screenshot here*  
+![image](https://github.com/user-attachments/assets/7b87b52c-36e3-453f-9e8f-3e9f1fd1860b)
+
 
 ---
 
