@@ -3,7 +3,6 @@
 
 # Simple Keylogger
 
-**Author:** Shema Prince  
 
 I created this project as a basic keylogger to demonstrate how keystrokes can be recorded and logged using Python. The program captures keyboard input and saves it to a specified log file. 
 **Important:** This tool is for educational purposes only and must be used ethically and with permission.
