@@ -1,7 +1,5 @@
 # PRODIGY_CS_04
-Absolutely! Here’s a README that reflects your direct involvement:
 
----
 
 # Simple Keylogger
 
